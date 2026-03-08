@@ -38,3 +38,5 @@ You can decide for yourself if you consider this ethical or not. Here are my per
  * This is technically a "nerf". In ideal conditions when you can hold down Flurry key and Shadow Clone deals damage as expected, your DPS will be higher compared to mashing Flurry
  * While *technically* a macro, the script doesn't modify gameplay or make it easier: without this script - you hold down Flurry key -> you spam Flurry. With this script, you gold down Flurry key -> you spam Flurry.
  * The key point of this is to make sure Shadow Clone deals damage like it's supposed to.
+
+Use at your own risk. If you get banned or face any consequences for this - I am not in any way responsible. Make your own choices based on your own assessments.
