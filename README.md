@@ -28,7 +28,7 @@ You can use this script if Flurry is bound to `Right Mouse Button (Secondary cli
  * Short press of `Right Mouse Button` (< 400ms) → behaves like a normal `Right Mouse Button` keypress
  * Long press (≥ 400ms) → enters loop mode and sends the repeating pattern (35ms on → 73ms off → 37ms on → 71ms off) for as long as you physically hold `Right Mouse Button`
 
-To stop the script from running and terurn to normal `1` behaviour, press `Win`+`X`.
+To stop the script from running and terurn to normal `Right Mouse Button` behaviour, press `Win`+`X`.
 
 ## Ethical Considerations
 
