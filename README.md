@@ -17,16 +17,16 @@ This repo has two scripts:
 ### 1_flurry.ahk
 You can use this script if Flurry is bound to `1`. The script has the following logic:
 
- * Short press of `1` (< 400ms) → behaves like a normal `1` keypress
- * Long press (≥ 400ms) → enters loop mode and sends the repeating pattern (35ms on → 73ms off → 37ms on → 71ms off) for as long as you physically hold `1`
+ * Short press of `1` (< 150ms) → behaves like a normal `1` keypress
+ * Long press (≥ 150ms) → enters loop mode and sends the repeating pattern (35ms on → 73ms off → 37ms on → 71ms off) for as long as you physically hold `1`
 
 To stop the script from running and terurn to normal `1` behaviour, press `Win`+`X`.
 
 ### RButton_flurry.ahk
 You can use this script if Flurry is bound to `Right Mouse Button (Secondary click)`. The script has the following logic:
 
- * Short press of `Right Mouse Button` (< 400ms) → behaves like a normal `Right Mouse Button` keypress
- * Long press (≥ 400ms) → enters loop mode and sends the repeating pattern (35ms on → 73ms off → 37ms on → 71ms off) for as long as you physically hold `Right Mouse Button`
+ * Short press of `Right Mouse Button` (< 150ms) → behaves like a normal `Right Mouse Button` keypress
+ * Long press (≥ 150ms) → enters loop mode and sends the repeating pattern (35ms on → 73ms off → 37ms on → 71ms off) for as long as you physically hold `Right Mouse Button`
 
 To stop the script from running and terurn to normal `Right Mouse Button` behaviour, press `Win`+`X`.
 
