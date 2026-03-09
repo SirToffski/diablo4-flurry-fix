@@ -5,7 +5,7 @@
     ; Record when button was first pressed
     pressTime := A_TickCount
 
-    ; Wait to see if this becomes a "long press" (>400ms)
+    ; Wait to see if this becomes a "long press" (>150ms)
     ; While waiting, check if button is released early
     Loop {
         Sleep(10)
@@ -19,7 +19,7 @@
         }
 
         ; If we've held for >400ms, break into the loop mode
-        if (A_TickCount - pressTime > 400)
+        if (A_TickCount - pressTime > 150)
             break
     }
 
@@ -49,4 +49,5 @@
         Sleep(71)
     }
 }
+
 #x::ExitApp  ; Win+X
